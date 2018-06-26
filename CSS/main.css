@@ -52,4 +52,7 @@ body{
       transform: scale(1.2);
       border: 1px solid #ddd;
     }
+	.images{
+		margin-top:5px;
+	}
 }
